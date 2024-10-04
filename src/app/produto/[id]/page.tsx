@@ -1,3 +1,5 @@
+'use client'
+
 import useProdutos from "@/data/hooks/useProdutos"
 
 export default function PaginaProduto(props: any) {
